@@ -1,0 +1,3 @@
+ERROR 503 - serviço indisponível API_B
+INFO - operação concluída
+ERROR 500 - timeout API_A

@@ -1,0 +1,3 @@
+ERROR 500 - timeout API_A - pagamento recusado
+WARNING - lentidão no sistema
+ERROR 401 - token inválido
